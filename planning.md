@@ -9,7 +9,9 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+<!-- Off Campus Housing Experiences, Neighborhood Suggestions, Building Reviews. There is not much about this through official University Channels and finding the info is hard because it is scattered. -->
+
+This guide covers off-campus housing experiences for DePaul University students: neighborhood suggestions, specific building and landlord reviews, lease and move-in cost warnings, and commute realities for both the Lincoln Park and Loop campuses. This knowledge is hard to find through official channels because DePaul houses only a fraction of its students, so most rent on the private market — and the honest information lives scattered across Reddit threads, Yelp and Google reviews, and student Facebook groups rather than in any single university resource. The Unofficial Guide gathers these fragmented, first-hand student accounts into one place you can search and ask questions of.
 
 ---
 
@@ -20,16 +22,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Reddit | DePaul subreddit | https://www.reddit.com/r/depaul/ |
+| 2 | Reddit | ChicagoApartments subreddit | https://www.reddit.com/r/chicagoapartments/ |
+| 3 | Reddit | Chicago subreddit neighborhood and housing threads | https://www.reddit.com/r/chicago/ |
+| 4 | Yelp | Reviews for apartment buildings near DePaul (Lincoln Park, Loop) | https://www.yelp.com/ |
+| 5 | Google Reviews | Property management companies (search "apartments near DePaul University") | maps.google.com |
+| 6 | Apartments.com | Apartment reviews section on individual listings | https://www.apartments.com/ |
+| 7 | ApartmentRatings.com | Tenant reviews indexed by building address | https://www.apartmentratings.com/ |
+| 8 | Niche.com | Neighborhood reviews with student demographic filters | https://www.niche.com/ |
+| 9 | Zillow / HotPads | Rent price reality + building review sections | https://www.zillow.com/ |
+| 10 | Quora / student blogs | Unofficial student-written housing advice and Q&A threads | various |
 
 ---
 
