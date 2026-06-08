@@ -49,6 +49,8 @@ There will be no overlap for individual comments or reviews but for long texts t
 **Reasoning:**
 These numbers fit the structure of my documents since a lot of the text that will be captured will be shorter than 150 words and they will all be separate discrete writings.
 
+**Implementation note:** Added a 5 word minimum chunk filter during Milestone 3. Real web copy paste produced many short fragments (orphan usernames, vote counts, UI labels) of one to four words that carry no retrievable meaning, so they are dropped. Chunk size (150 words) and overlap (25 words) were kept as specified.
+
 ## Retrieval Approach
 
 <!-- Which embedding model are you using (e.g., all-MiniLM-L6-v2 via sentence-transformers)?
