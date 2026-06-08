@@ -1,11 +1,11 @@
 filename,source,neighborhood,building,url
-reddit_lp-housing.txt,Reddit,Lincoln Park,,https://www.reddit.com/r/chicagoapartments/comments/1mhqeb5/lincoln_park/
-reddit_loop-living.txt,Reddit,Loop,,https://www.reddit.com/r/depaul/comments/1m17jjh/need_advice_on_cheapest_housing_options_for_ms_at/
-reddit_roommates.txt,Reddit,,,https://www.reddit.com/r/depaul/comments/159h70n/where_can_i_search_for_roommates/
-reddit_student-neighborhoods.txt,Reddit,,,https://www.reddit.com/r/depaul/comments/1dmefsj/off_campus_housing_costs/
-reddit_fees-warnings.txt,Reddit,,,https://www.reddit.com/r/chicagoapartments/comments/1sbl0ur/is_this_movein_fee_normal_or_am_i_getting_played/
-reddit_chicago-neighborhoods.txt,Reddit,,,https://www.reddit.com/r/AskChicago/comments/1qac1qd/affordable_walkable_neighborhoods_for_young_people/
-reddit_management-co.txt,Reddit,,,https://www.reddit.com/r/chicagoapartments/comments/1iwugq2/looking_for_a_list_of_property_management/
+reddit_lp-housing.txt,Reddit,Lincoln Park,,https://www.reddit.com/r/depaul https://www.reddit.com/r/AskChicago https://www.reddit.com/r/chicagoapartments
+reddit_loop-living.txt,Reddit,Loop,,https://www.reddit.com/r/depaul https://www.reddit.com/r/AskChicago https://www.reddit.com/r/chicagoapartments
+reddit_roommates.txt,Reddit,,,https://www.reddit.com/r/depaul https://www.reddit.com/r/AskChicago https://www.reddit.com/r/chicagoapartments
+reddit_student-neighborhoods.txt,Reddit,,,https://www.reddit.com/r/depaul https://www.reddit.com/r/AskChicago https://www.reddit.com/r/chicagoapartments
+reddit_fees-warnings.txt,Reddit,,,https://www.reddit.com/r/AskChicago https://www.reddit.com/r/chicagoapartments
+reddit_chicago-neighborhoods.txt,Reddit,,,https://www.reddit.com/r/AskChicago https://www.reddit.com/r/chicagoapartments
+reddit_management-co.txt,Reddit,,,https://www.reddit.com/r/chicagoapartments
 apartmentratings_building-2.txt,ApartmentRatings,,,https://www.apartmentratings.com/il/60614/
 apartments_lp-area-guide.txt,Apartments.com,Lincoln Park,,https://www.apartments.com/local-guide/lincoln-park-chicago-il/
 niche_neighborhood.txt,Niche,Lincoln Park,,https://www.niche.com/places-to-live/n/lincoln-park-chicago-il/
