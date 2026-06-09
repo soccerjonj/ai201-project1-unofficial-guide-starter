@@ -11,7 +11,7 @@
 
 <!-- Off Campus Housing Experiences, Neighborhood Suggestions, Building Reviews. There is not much about this through official University Channels and finding the info is hard because it is scattered. -->
 
-This guide covers off-campus housing experiences for DePaul University students: neighborhood suggestions, specific building and landlord reviews, lease and move-in cost warnings, and commute realities for both the Lincoln Park and Loop campuses. This knowledge is hard to find through official channels because DePaul houses only a fraction of its students, so most rent on the private market — and the honest information lives scattered across Reddit threads, Yelp and Google reviews, and student Facebook groups rather than in any single university resource. The Unofficial Guide gathers these fragmented, first-hand student accounts into one place you can search and ask questions of.
+Off-campus housing experiences for DePaul University students: neighborhood suggestions, management company reviews, lease and move-in cost warnings, and commute realities for both the Lincoln Park and Loop campuses. This knowledge is hard to find through official channels because DePaul houses only a fraction of its students, so most rent on the private market — and the honest information lives scattered across Reddit threads, Yelp and Google reviews, and student Facebook groups rather than in any single university resource. 
 
 ---
 
@@ -20,18 +20,23 @@ This guide covers off-campus housing experiences for DePaul University students:
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | Reddit | DePaul subreddit | https://www.reddit.com/r/depaul/ |
-| 2 | Reddit | ChicagoApartments subreddit | https://www.reddit.com/r/chicagoapartments/ |
-| 3 | Reddit | Chicago subreddit neighborhood and housing threads | https://www.reddit.com/r/chicago/ |
-| 4 | Yelp | Reviews for apartment buildings near DePaul (Lincoln Park, Loop) | https://www.yelp.com/ |
-| 5 | Google Reviews | Property management companies (search "apartments near DePaul University") | maps.google.com |
-| 6 | Apartments.com | Apartment reviews section on individual listings | https://www.apartments.com/ |
-| 7 | ApartmentRatings.com | Tenant reviews indexed by building address | https://www.apartmentratings.com/ |
-| 8 | Niche.com | Neighborhood reviews with student demographic filters | https://www.niche.com/ |
-| 9 | Zillow / HotPads | Rent price reality + building review sections | https://www.zillow.com/ |
-| 10 | Quora / student blogs | Unofficial student-written housing advice and Q&A threads | various |
+11 documents actually collected (one file per row, in documents/). Several Reddit
+files each combine multiple threads across the subreddits listed, so the corpus
+draws on 15+ individual threads/pages in total.
+
+| # | File | Source | Description | URL or location |
+|---|------|--------|-------------|-----------------|
+| 1 | reddit_lp-housing.txt | Reddit | Lincoln Park off-campus housing threads | r/depaul, r/AskChicago, r/chicagoapartments |
+| 2 | reddit_loop-living.txt | Reddit | Living near the Loop campus and the commute | r/depaul, r/AskChicago, r/chicagoapartments |
+| 3 | reddit_roommates.txt | Reddit | Finding roommates / 3-bed apartments | r/depaul, r/AskChicago, r/chicagoapartments |
+| 4 | reddit_student-neighborhoods.txt | Reddit | DePaul student neighborhood and cost discussion | r/depaul, r/AskChicago, r/chicagoapartments |
+| 5 | reddit_fees-warnings.txt | Reddit | Move-in fee and lease cost warnings | r/AskChicago, r/chicagoapartments |
+| 6 | reddit_chicago-neighborhoods.txt | Reddit | Affordable / walkable neighborhood discussion | r/AskChicago, r/chicagoapartments |
+| 7 | reddit_management-co.txt | Reddit | Property management company experiences | r/chicagoapartments |
+| 8 | apartmentratings_building-2.txt | ApartmentRatings | Tenant reviews for buildings in 60614 | https://www.apartmentratings.com/il/60614/ |
+| 9 | apartments_lp-area-guide.txt | Apartments.com | Lincoln Park neighborhood guide | https://www.apartments.com/local-guide/lincoln-park-chicago-il/ |
+| 10 | niche_neighborhood.txt | Niche | Lincoln Park neighborhood reviews + stats | https://www.niche.com/places-to-live/n/lincoln-park-chicago-il/ |
+| 11 | blog_dpu-neighborhoods.txt | DePaul Honors Blog | Student guide to LP, Wrigleyville, Logan Square | https://dpuhonors.com/2025/09/25/chicago-neighborhoods/ |
 
 ---
 
